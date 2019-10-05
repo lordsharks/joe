@@ -1,6 +1,5 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Mini Portfolio by ShaQs
+Free for personal and commercial use under the MIT licence
 
 
 A super simple responsive portfolio template. It's only a single page because hey, sometimes
