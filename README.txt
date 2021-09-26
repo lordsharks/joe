@@ -5,23 +5,8 @@ Free for personal and commercial use under the MIT licence
 A super simple responsive portfolio template. It's only a single page because hey, sometimes
 you don't need a half dozen pages to make your point.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
 Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
+		aj@lkn.io | @ajlkn
 
 	Icons:
 		Font Awesome (fontawesome.io)
